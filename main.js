@@ -1,2 +1,2 @@
 console.log("hello")
-let n = 4,
+let n = 4
